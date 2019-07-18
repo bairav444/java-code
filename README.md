@@ -1,2 +1,2 @@
-# mavaen-code
-mavaen code
+#maven code
+simple java code
